@@ -1,0 +1,7 @@
+.App:hover>.App-header>.background-img> .human{
+    animation-name: motion1;
+    animation-duration: 0.6s;
+    animation-direction: alternate-reverse;
+    animation-iteration-count: 15;
+  }
+  
